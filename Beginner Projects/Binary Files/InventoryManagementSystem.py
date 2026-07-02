@@ -1,4 +1,4 @@
-# Arya Rana
+#Arya Rana
 # InventoryManagementSystem.py
 # A menu-driven Python program that uses the pickle module to manage inventory records in a binary file, with options to add, display, search, and delete items.
 
